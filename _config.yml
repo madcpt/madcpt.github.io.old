@@ -82,14 +82,14 @@ analytics:
 # Site Author
 author:
   name             : "Zihan Xu (徐子涵)"
-  avatar           : "https://s1.ax1x.com/2020/04/09/GIQwtO.png"
+  avatar           : "zihan.png"
   bio              : "Work Life Challenges"
   location         : "Shanghai, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : zihan.xu@sjtu.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=ikM_eaMAAAAJ&hl=zh-CN"
+  email            : zhxu98@gmail.com
+# researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
