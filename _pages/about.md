@@ -18,21 +18,24 @@ redirect_from:
 + I am registered as a student member of IEEE.
 
 ## Research 
-+ My research interests lie in the general area of Natural Language Processing and Human-Computer Interaction.
-+ Specifically, I have worked on Dialogue State Tracking and currently I am interested in Text-To-SQL Dialogue Systems.
++ My research interests lie in the general area of Natural Language Processing. Previously, my focus was on Dialogue State Tracking and Text-To-SQL Dialogue Systems.
++ I am also interested in Human-Computer Interaction. Specifically, strategies and actions dialogue bots take to interact with human.
 
 ## Publications
-+ Memory Attention Neural Network for Multi-Domain Dialogue State Tracking. (In submission)
-+ Coarse-to-Fine Sequence Generation for Multi-Domain Dialogue State Tracking. (In submission)
++ Xu Z, Chen Z, Chen L, Zhu S, Yu K. Memory Attention Neural Network for Multi-domain Dialogue State Tracking. InCCF International Conference on Natural Language Processing and Chinese Computing 2020 Oct 14 (pp. 41-52). Springer, Cham.
++ Chen, Z., Chen, L., Xu, Z., Zhao, Y., Zhu, S., & Yu, K. (2020). CREDIT: Coarse-to-Fine Sequence Generation for Dialogue State Tracking. arXiv preprint arXiv:2009.10435.
++ Chen, Z., Chen, L., Xu, Z. Rui, C., Zhao, Y., Zhu, S., & Yu, K. (under review). ShadowGNN: Graph Projection Neural Network for Text-to-SQL Parser.
 
 ## Experience
-<!-- + Research Intern at PRAIRIE (PaRis AI Research InstitutE), a research institution at INRIA. (June 2020 - Oct 2020) -->
++ Research Intern at PRAIRIE (PaRis AI Research InstitutE), a research institution at INRIA. (July 2020 - )
 + Research Intern at SpeechLab, Shanghai Jiao Tong University. (Apr 2019 - )
 + Research Intern at Intelligent Internet of Things (IIoT), Shanghai Jiao Tong University. (Mar 2018 - Apr 2019)
 
 ## Recent News
++ July. 2020, I am working closely with [Prof. Abdellah Fourtassi](https://sites.google.com/site/fourtassi/home) at [CoCoDev](https://afourtassi.github.io/cocodev/).
++ July. 2020, one paper accepted by NLPCC 2020 to appear **oral** presentation, see the full text [here](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_4).
 + Apr. 2020, I am working as an Admissions Assistant in the Admission Office at Shanghai Jiao Tong University.
-+ Mar. 2020, I will take a research internship in PRAIRIE (PaRis AI Research InstitutE) at INRIA from June to October under supervision of [Prof. Justine Cassell](http://www.justinecassell.com), thanks to Professor Cassell!
++ Mar. 2020, I will take a research internship in [PRAIRIE](http://prairie-institute.fr/) (PaRis AI Research InstitutE) at INRIA from June to October under supervision of [Prof. Justine Cassell](http://www.justinecassell.com), thanks to Professor Cassell!
 + Jan. 2020, submitted a first-authored paper to IJCAI-PRICAI 2020.
 + Dec. 2019, submitted a long paper to ACL 2020.
 + Apr. 2019, I will take a research internship in SpeechLab, Shanghai Jiao Tong University. Thanks to [Prof. Kai Yu](https://speechlab.sjtu.edu.cn/members/kai_yu) for offering the position!
