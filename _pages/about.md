@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 
 ## Education
-**Shanghai Jiao Tong University (2017-)**
+**Shanghai Jiao Tong University (2017-2021 expected)**
 + I am currently a junior undergraduate student in the Department of Computer Science and Engineering at Shanghai Jiao Tong University. 
 + I am a member of IEEE honor class, an elite student program in the School of Electronics, Information and Electrical Engineering.
 + I am also admitted to Zhiyuan College, joining in Zhiyuan Honors Program in Engineering.
@@ -32,6 +32,7 @@ redirect_from:
 + Research Intern at Intelligent Internet of Things (IIoT), Shanghai Jiao Tong University. (Mar 2018 - Apr 2019)
 
 ## Recent News
++ Nov. 2020, I am applying to grad schools around the world! Refer to [here](https://zihan.life/2021fall) for more information.
 + Sep. 2020, submitted a paper to AAAI 2021.
 + July. 2020, I am working closely with [Prof. Abdellah Fourtassi](https://sites.google.com/site/fourtassi/home) at [CoCoDev](https://afourtassi.github.io/cocodev/).
 + July. 2020, one paper accepted by NLPCC 2020 to appear **oral** presentation, see the full text [here](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_4).
