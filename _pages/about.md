@@ -32,7 +32,7 @@ redirect_from:
 + Research Intern at Intelligent Internet of Things (IIoT), Shanghai Jiao Tong University. (Mar 2018 - Apr 2019)
 
 ## Recent News
-+ Nov. 2020, I am applying to grad schools around the world! Refer to [here](https://zihan.life/2021fall) for more information.
++ Nov. 2020, I am applying to grad schools around the world! Refer to [here](https://zihan.life/2021fall)(list of programs with no order of preference) for more information.
 + Sep. 2020, submitted a paper to AAAI 2021.
 + July. 2020, I am working closely with [Prof. Abdellah Fourtassi](https://sites.google.com/site/fourtassi/home) at [CoCoDev](https://afourtassi.github.io/cocodev/).
 + July. 2020, one paper accepted by NLPCC 2020 to appear **oral** presentation, see the full text [here](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_4).
