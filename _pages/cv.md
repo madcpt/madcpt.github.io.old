@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-> See the official CV here: [https://docs.google.com/document/d/1xN9NPcY8bih8OmKwDt3iy2RDdfnA_u6AM_UrXL27vwg/edit?usp=sharing](https://docs.google.com/document/d/1xN9NPcY8bih8OmKwDt3iy2RDdfnA_u6AM_UrXL27vwg/edit?usp=sharing)
+<!-- > See the official CV here: [https://docs.google.com/document/d/1xN9NPcY8bih8OmKwDt3iy2RDdfnA_u6AM_UrXL27vwg/edit?usp=sharing](https://docs.google.com/document/d/1xN9NPcY8bih8OmKwDt3iy2RDdfnA_u6AM_UrXL27vwg/edit?usp=sharing) -->
+> See the official CV here: [download](/files/cv.pdf)
 
 Education
 ======
